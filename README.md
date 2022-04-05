@@ -9,7 +9,7 @@
 
 ### versão do Node
 * 7.4.0
-### Versão do NPM
+### versão do NPM
 * 4.0.5
 
 # Introdução
@@ -22,3 +22,7 @@
 * Eecuta os teste diretamente no navegador, ou por linha de comando no terminal
 * Possui fácil instalação e configuração.
 * Pode ser utilizado de forma independente ou incorporado a um projeto NodeJs, Ruby ou Python.
+
+# versão usada
+
+https://github.com/jasmine/jasmine/releases/tag/v2.5.2
