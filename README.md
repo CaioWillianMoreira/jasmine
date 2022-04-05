@@ -11,3 +11,14 @@
 * 7.4.0
 ### Versão do NPM
 * 4.0.5
+
+# Introdução
+
+* Jasmine é um framework utlizado para criação de testes em Javascript.
+* Utilza os conceitos BDD (Behavior Driven Development), que seriam testes guiados por comportamento.
+* BDD permite a ciração de testes intuitivos e de fácil compreensão.
+* Jasmine é rápido, e não possui depndências externas.
+* Inclui por padrão tudo o que 'necessário para testar uma aplicação
+* Eecuta os teste diretamente no navegador, ou por linha de comando no terminal
+* Possui fácil instalação e configuração.
+* Pode ser utilizado de forma independente ou incorporado a um projeto NodeJs, Ruby ou Python.
