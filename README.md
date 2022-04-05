@@ -6,3 +6,8 @@
 * Adicionar uma nova funcionalidade leva menos tempo com testes de regressão, uma vez que o código já cobre testes para as funcionalidades existentes, e elas serão testadas automaticamente ao executar as suítes de testes.
 * Tornará você um desenvolvedor melhor, ajudando a estruturar melhor o código implementado.
 * Contribuirá para você conseguir um novo emprego, uma vez que teste de software sempre é requisitado em entrevistas de emprego.
+
+### versão do Node
+* 7.4.0
+### Versão do NPM
+* 4.0.5
