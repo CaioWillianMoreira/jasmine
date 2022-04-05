@@ -1,6 +1,6 @@
 # Testes (Specs)
 
-* Specs são os tsetse que validam uma suíte de testes.
+* Specs são os testes que validam uma suíte de testes.
 * Assim como as suítes, ela é uma função global javascript chamada 'It', que contém dois parâmetros, uma descrição e uma função, respectivamente.
 * Dentro do segundo parâmetro, é onde adicionamos as verificações (expectations)
 
