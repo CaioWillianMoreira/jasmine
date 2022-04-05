@@ -7,8 +7,6 @@
 
 ```
 describe("operação de adição", function() {
-  it("deve quarantir que 1 + 1 = 2", function ()=> {
-    expect(Calculadora.adicinar(1,1).toBe(2));
-  });
+
 });
 ```
