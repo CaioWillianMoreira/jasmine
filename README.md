@@ -1,6 +1,6 @@
 # Importância do teste de software.
 
-* Permite a criação de um código mais confidente e de fácil manutenção.
+* Permite a criação de um código mais confiável e de fácil manutenção.
 * O código ficará menos acoplado e melhor estruturado.
 * Seguindo o padrão BDD os testes poderão ser utilizados pare entender o funcionamento do sistma.
 * Adicionar uma nova funcionalidade leva menos tempo com testes de regressão, uma vez que o código já cobre testes para as funcionalidades existentes, e elas serão testadas automaticamente ao executar as suítes de testes.
